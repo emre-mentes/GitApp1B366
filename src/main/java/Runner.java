@@ -19,5 +19,8 @@ public class Runner {
 
         //Version 6
         System.out.println("yeni güne merhaba");
+
+        //Version 7
+        System.out.println("hi");
     }
 }
